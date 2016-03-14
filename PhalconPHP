@@ -1,0 +1,9 @@
+PhalconPHP es un framework que optimiza el rendimiento de PHP gestionando los servicios y las peticiones.
+Funciona con el metodo MVC.
+
+Usa un sistema por tags del estilo de:
+<?php echo $this->tag->textField("name") ?> para un campo de INPUT 
+<?php echo $this->tag->submitButton("Registrarme") ?> para un boton de Submit
+
+Tutorial muy claro:
+https://docs.phalconphp.com/es/latest/reference/tutorial.html
