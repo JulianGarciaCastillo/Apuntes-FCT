@@ -1,0 +1,12 @@
+# Tamaños responsive
+small - medium - large
+Sera el tamaño minimo desde el que sera responsive, sino hara blocks. la combinacion debe sumar 12, sino fijar cual es la ultima row con .end
+
+# Centar columna de width menor 12.
+class="small-3 small-centered columns"
+
+
+
+
+
+FUENTE: http://foundation.zurb.com/sites/docs/grid.html
