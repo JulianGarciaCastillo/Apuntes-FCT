@@ -1,0 +1,15 @@
+Github tutorial
+
+UPDATE CHANGES
+  git status [to check what files I want to upload as changes, red:changes but not added - green: changes and added]
+  git commit -a [to add all files to queue ready to add]
+  git add [to confirm adding files]
+    git add -A stages All
+    git add . stages new and modified, without deleted
+    git add -u stages modified and deleted, without new
+  git push origin branchname [git push origin julian-edit-name]
+  git pull [get files from repo, to check if it's up to date.]
+
+CHANGE BRANCH
+  git checkout branchnametochange
+  git pull
