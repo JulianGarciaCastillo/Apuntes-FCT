@@ -2,6 +2,7 @@ Github tutorial
 
 UPDATE CHANGES
   git status [to check what files I want to upload as changes, red:changes but not added - green: changes and added]
+  git checkout -- filetoignore [to ignore files to commit]
   git commit -a [to add all files to queue ready to add]
   git add [to confirm adding files]
     git add -A stages All
