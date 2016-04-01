@@ -10,6 +10,7 @@ UPDATE CHANGES
     git add -u stages modified and deleted, without new
   git push origin branchname [git push origin julian-edit-name]
   git pull [get files from repo, to check if it's up to date.]
+  IF ERRORS pulling or pushing, git fetch
 
 CHANGE BRANCH
   git checkout branchnametochange
